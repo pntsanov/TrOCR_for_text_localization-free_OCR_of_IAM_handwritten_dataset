@@ -1,0 +1,1 @@
+# TrOCR_for_text_localization-free_OCR_of_IAM_handwritten_dataset
